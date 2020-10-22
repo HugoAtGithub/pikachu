@@ -1,4 +1,6 @@
 # pikachu
 ## dev
-npm install -g parcel
+npm install -g parcel  
 parcel src/index.html
+## build
+npm run build
